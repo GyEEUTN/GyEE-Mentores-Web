@@ -1,0 +1,24 @@
+Canales de youtube recomendados:
+
+https://www.youtube.com/c/OnlineTutorials4Designers
+
+
+
+
+Ejemplos de proyectos:
+-
+
+APPs para utilizar:
+-AnWriter Free (Android).
+-SoloLearn (aprender a codear).
+-CodeMurai
+
+
+Sitios web de interes:
+-Sitio para cargar páginas web:  www.netlify.app
+-Sitio para cargar páginas web:  www.github.com
+
+Sitios para generar encuestas/actividades en clases:
+
+-www.kahoot.com
+-www.mentimeter.com
